@@ -20,5 +20,5 @@ The objective was to create a **simple responsive landing page** using **HTML5**
 
 ---
 ## 📸 Screenshot
-![Landing Page Screenshot] (screenshot1.png) & (screenshot2.png)
+![Landing Page Screenshot] 
 
