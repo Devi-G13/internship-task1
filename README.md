@@ -19,3 +19,6 @@ The objective was to create a **simple responsive landing page** using **HTML5**
 - VS Code + Live Server  
 
 ---
+## 📸 Screenshot
+![Landing Page Screenshot] (screenshot1.png) & (screenshot2.png)
+
