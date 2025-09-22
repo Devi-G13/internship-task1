@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: #333;
+  color: #fff;
+}
+
+header .logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+nav ul li a:hover {
+  color: yellow;
+}
+
+/* Hero Section */
+.hero {
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:rgb(81, 81, 212);
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.hero-content h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.hero-content p {
+  margin-bottom: 20px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background:orange;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background:goldenrod;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background:black;
+  color: #fff;
+  margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    background:slateblue;
+    position: absolute;
+    top: 60px;
+    right: 0;
+    padding: 10px;
+    display: none;
+  }
+}
