@@ -20,5 +20,11 @@ The objective was to create a **simple responsive landing page** using **HTML5**
 
 ---
 ## 📸 Screenshot
-![Landing Page Screenshot] 
+![Landing Page Screenshot]  --> output of the landing page
+
+---
+
+## 📌 Internship Notes
+This task helped me understand semantic HTML, Flexbox layout, and responsive design with media queries.
+
 
